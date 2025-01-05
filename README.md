@@ -40,11 +40,11 @@ Ensure you have Python installed on your system. You can download it from [pytho
     ```
 2. Clone the repository:
     ```bash
-    https://github.com/GAURAV4712161/Masai_Project.git
+    https://github.com/amitrl22/IIT_Mandi_CCE_Python_CLI_Banking_Project.git
     ```
 3. Navigate to the project directory:
     ```bash
-    cd Python-Bank-Project
+    cd IT_Mandi_CCE_Banking_Python_CLI_Project
     ```
 
 ### Usage
