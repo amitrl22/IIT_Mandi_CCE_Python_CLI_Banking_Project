@@ -44,7 +44,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
     ```
 3. Navigate to the project directory:
     ```bash
-    cd IT_Mandi_CCE_Banking_Python_CLI_Project
+    cd IIT_Mandi_CCE_Banking_Python_CLI_Project
     ```
 
 ### Usage
